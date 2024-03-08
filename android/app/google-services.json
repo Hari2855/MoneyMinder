@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911640612558",
+    "project_id": "expense-traker-d3a11",
+    "storage_bucket": "expense-traker-d3a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911640612558:android:131b601fafdc9bddfa8a9f",
+        "android_client_info": {
+          "package_name": "com.moneyminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa31ci2Vm-4LVLnXTC1oIBqyGs_IGc484"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
